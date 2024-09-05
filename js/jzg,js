@@ -1,5 +1,5 @@
 <!-- 网页鼠标点击特效 - 核心价值观关键字 -->
-<script>
+
     (function () {
         var a_idx = 0;
         window.onclick = function (event) {
@@ -40,4 +40,3 @@
                 .random() * 255)) + ")";
         }
     }());
-</script>
