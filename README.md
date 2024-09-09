@@ -2,9 +2,11 @@
 
 * 半透明化目录背景  
 
-* 随机甘城背景图  
+* 随机甘城背景图  （修改了图片api）
 
 * 添加回到顶部猫猫  
+
+
 
 ## 使用方法  
    * 以下内容针对静态背景，视频背景详见[此处](https://github.com/TheSmallHanCat/Better_Alist/issues/7)
